@@ -1,4 +1,4 @@
-# JerryKhoutsavanhGitHub
+# Jerry Khoutsavanh GitHub
 👋 Hello there! I'm Jerry Khoutsavanh, a passionate software developer and aspiring tech enthusiast.
 
 🚀 Currently, I'm honing my skills in Java, HTML, CSS, JavaScript, and PostgreSQL, crafting solutions that harmonize with the digital world.
